@@ -32,6 +32,3 @@ This project is in early development. Contributions and feedback are welcome!
 
 MIT License
 
----
-
-**Made with 🇮🇳 in India**
