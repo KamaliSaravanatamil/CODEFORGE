@@ -24,9 +24,6 @@ CodeForge AI is designed to democratize coding education for Hindi and Tamil spe
 - [Design](design.md) - System architecture and design
 - [Tasks](tasks.md) - Implementation roadmap
 
-## Contributing
-
-This project is in early development. Contributions and feedback are welcome!
 
 ## License
 
